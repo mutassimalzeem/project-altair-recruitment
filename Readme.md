@@ -33,8 +33,8 @@ This week focused on foundational skills in microcontroller programming, sensor 
 
 ### **About Me**
 
-* **Name:** \[Your Name\]  
-* **Student ID:** \[Your Student ID\]  
+* **Name:** Mutassim Al Shahriar Zeem  
+* **Student ID:** 230021320  
 * **Background:** EEE Student, Python Developer  
 * **Interests:** Robotics, Artificial Intelligence, Machine Learning, and Embedded Systems.
 
